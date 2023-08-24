@@ -38,7 +38,7 @@ $(function () {
   // the values of the corresponding textarea elements. HINT: How can the id
   // attribute of each time-block be used to do this?
   for (var i = 9; i <= 17; i++) {
-    var savedEvent = localStorage.getItem('event-' + i);
+    var savedEvent = localStorage.getItem('hour-' + i);
     $('#hour-' + i + ' .description').val(savedEvent);
   }
 
