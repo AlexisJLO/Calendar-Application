@@ -35,3 +35,9 @@ Work Day Scheduler is a web-based application that helps you organize your workd
 - jQuery
 - Bootstrap
 - Day.js
+## Deployment
+
+Repository: https://github.com/AlexisJLO/Calendar-Application
+
+Live Website: https://alexisjlo.github.io/Calendar-Application/
+
